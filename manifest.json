@@ -1,0 +1,16 @@
+{
+    "name": "Arjun C S | Arjunchoozhi",
+    "short_name": "Arjun C S",
+    "start_url": "/Portfolio/index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF", 
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/Portfolio/assets/img/favicon.png",
+        "type": "image/png",
+        "sizes": "196x196"
+      }
+    ]
+  }
